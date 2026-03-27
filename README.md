@@ -51,7 +51,7 @@ Here are the key dashboards included in this project:
 
 ## 🔗 Live Dashboard
 Explore the interactive Power BI dashboard here:  
-[Shield Insurance Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM2YTExMjItZGE1Ny00ZjgxLTk2NjAtZGM3NzJjODZmZjI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Shield Insurance Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTRkOGRlNDgtYmQyOC00ZWZlLTkxMzEtM2Q0NmRiZjNhMDc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
