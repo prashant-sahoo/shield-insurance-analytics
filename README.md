@@ -36,7 +36,7 @@ The purpose of this project was to:
 Here are the key dashboards included in this project:
 
 ### Executive View
-![Executive View](screenshots/executive_view.png)
+![Executive View](screenshots/executive_report.png)
 
 ### Sales Mode Analysis
 ![Sales Mode Analysis](screenshots/sales_mode_analysis.png)
